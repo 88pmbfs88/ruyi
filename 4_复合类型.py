@@ -14,7 +14,7 @@ print(len(student))
 
 # 字典
 school = {"addr": "扬州", "name": "艺校", "student": 666}
-school["student"]
+print(school["student"])
 
 
 
